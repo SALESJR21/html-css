@@ -1,7 +1,7 @@
 # **HTML, CSS e JAVASCRIPT**
 ____________________________
 
-## **Curso de HTML5, CSS3 e JAVASCRIPT do CursoemVideo**
+## **Curso de HTML5, CSS3 e JAVASCRIPT do Curso em Video**
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
